@@ -1,0 +1,7 @@
+SIGN_KEY = 'oc3q7ingf978mx457fgk4587fg847'
+RUCAPTCHA_KEY = '6Le0ULwcAAAAAFBGanWk4A2Zdzv5ey3_6vzmJOuZ'
+NAME = 'муншин'
+USER_ID = Y/9RiWIo
+TOKEN = '$2a$06$2Ao/T01beSQ7u0py8kXVW'
+HUMAN_CAPTCHA_SOLVE = True
+level = 'INFO'
